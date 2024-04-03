@@ -8,7 +8,7 @@ Dans l'univers technologique en constante évolution, certains langages de progr
 
 ### A. Cadre de Travail
 
-Le cadre de travail d'un développeur COBOL varie, allant des bureaux traditionnels au télétravail, nécessitant une adaptation à divers environnements. Les outils et équipements spécialisés comme les EDI spécifiques au COBOL, les bases de données volumineuses, et parfois les simulateurs de mainframe, sont essentiels à notre quotidien.
+Le cadre de travail d'un développeur COBOL varie, allant des bureaux traditionnels au télétravail, nécessitant une adaptation à divers environnements. Les outils et équipements spécialisés comme les IDE spécifiques au COBOL (ex: IBM Developer for z Systems, GnuCOBOL), les bases de données volumineuses, et parfois les simulateurs de mainframe, sont essentiels à notre quotidien.
 
 ### B. Missions Quotidiennes
 
