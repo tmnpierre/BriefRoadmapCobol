@@ -70,9 +70,7 @@ Bien que junior, ce professionnel met l'accent sur l'importance de la rigueur et
 
 ### C. Environnement de Travail
 
-L'environnement de travail est varié, all
-
-ant de projets en solitaire à des équipes de jusqu'à 15 personnes. La collaboration se fait sous la direction de tech leads spécialisés, avec des discussions via des canaux spécifiques pour une communication efficace.
+L'environnement de travail est varié, allant de projets en solitaire à des équipes de jusqu'à 15 personnes. La collaboration se fait sous la direction de tech leads spécialisés, avec des discussions via des canaux spécifiques pour une communication efficace.
 
 ## Conclusion
 
